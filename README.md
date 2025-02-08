@@ -9,6 +9,7 @@ The Mobile Sales Dashboard provides an in-depth analysis of sales trends over 12
 
 
 
+
 <img width="621" alt="Mobile_sales2" src="https://github.com/user-attachments/assets/d73a6881-7bf5-4b40-bad6-ca73353cbb97" />
 
 
